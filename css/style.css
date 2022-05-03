@@ -146,6 +146,7 @@ body{
     line-height: 18px;
 }
 .p3{
+    margin-left: 10px;
     margin-top: 20px;
     color: var(--lightgray);
     text-align: justify;
